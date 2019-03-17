@@ -1,2 +1,2 @@
 # Prak-Sisdig
-Praktikum Sistem Digital Modul 1
+Praktikum Sistem Digital
